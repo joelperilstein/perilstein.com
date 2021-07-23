@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://perilstein.com/sitemap.xml
